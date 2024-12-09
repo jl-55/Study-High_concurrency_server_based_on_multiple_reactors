@@ -1,0 +1,38 @@
+﻿  正在清理远程项目目录
+  正在验证源
+  正在将源远程复制到“192.168.159.128”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  main.c
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\main.c(14,27): warning : conversion from ‘int’ to ‘short unsigned int’ may change value [-Wconversion]
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\main.c(14,27): warning :    14 |     unsigned short port = atoi(argv[1]);  // 字符型->整型
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\main.c(14,27): warning :       |                           ^~~~
+  Server.c
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(156,19): warning : conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(156,19): warning :   156 |     while ((len = recv(info->fd, tmp, sizeof tmp, 0)) > 0)
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(156,19): warning :       |                   ^~~~
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(161,38): warning : conversion to ‘size_t’ {aka ‘long unsigned int’} from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(161,38): warning :   161 |             memcpy(buf + total, tmp, len);  // 把tmp的数据拷贝到buf内，注意要更新新拷贝的起点
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(161,38): warning :       |                                      ^~~
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(170,22): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(170,22): warning :   170 |         int reqLen = pt - buf;
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(170,22): warning :       |                      ^~
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(236,58): warning : conversion from ‘__off_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(236,58): warning :   236 |         sendHeadMsg(cfd, 200, "OK", getFileType(file), st.st_size);
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(236,58): warning :       |                                                        ~~^~~~~~~~
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(379,16): warning : conversion from ‘__off_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(379,16): warning :   379 |     int size = lseek(fd, 0, SEEK_END);
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(379,16): warning :       |                ^~~~~
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(386,51): warning : conversion to ‘size_t’ {aka ‘long unsigned int’} from ‘off_t’ {aka ‘long int’} may change the sign of the result [-Wsign-conversion]
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(386,51): warning :   386 |         int ret = sendfile(cfd, fd, &offset, size - offset); // #include <sys/sendfile.h>
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(386,51): warning :       |                                              ~~~~~^~~~~~~~
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(386,19): warning : conversion from ‘ssize_t’ {aka ‘long int’} to ‘int’ may change value [-Wconversion]
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(386,19): warning :   386 |         int ret = sendfile(cfd, fd, &offset, size - offset); // #include <sys/sendfile.h>
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(386,19): warning :       |                   ^~~~~~~~
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(441,19): warning : conversion from ‘int’ to ‘char’ may change value [-Wconversion]
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(441,19): warning :   441 |             *to = hexToDec(from[1]) * 16 + hexToDec(from[2]);
+C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\Server.c(441,19): warning :       |                   ^~~~~~~~
+  正在链接对象
+  SimpleHttp.vcxproj -> C:\Users\Lin\Desktop\基于多反应堆的高并发服务器项目资料\项目代码\SimpleHttp\SimpleHttp\bin\x64\Debug\SimpleHttp.out

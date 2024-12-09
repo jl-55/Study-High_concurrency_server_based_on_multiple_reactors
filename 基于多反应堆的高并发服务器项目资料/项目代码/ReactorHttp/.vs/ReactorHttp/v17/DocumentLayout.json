@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BBA2C2-F6E7-4733-A902-9FA15CC13A21}|ReactorHttp\\ReactorHttp.vcxproj|C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\WorkerThread.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BBA2C2-F6E7-4733-A902-9FA15CC13A21}|ReactorHttp\\ReactorHttp.vcxproj|solutionrelative:ReactorHttp\\WorkerThread.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BBA2C2-F6E7-4733-A902-9FA15CC13A21}|ReactorHttp\\ReactorHttp.vcxproj|C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\WorkerThread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BBA2C2-F6E7-4733-A902-9FA15CC13A21}|ReactorHttp\\ReactorHttp.vcxproj|solutionrelative:ReactorHttp\\WorkerThread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BBA2C2-F6E7-4733-A902-9FA15CC13A21}|ReactorHttp\\ReactorHttp.vcxproj|C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\ThreadPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BBA2C2-F6E7-4733-A902-9FA15CC13A21}|ReactorHttp\\ReactorHttp.vcxproj|solutionrelative:ReactorHttp\\ThreadPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BBA2C2-F6E7-4733-A902-9FA15CC13A21}|ReactorHttp\\ReactorHttp.vcxproj|C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\Buffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BBA2C2-F6E7-4733-A902-9FA15CC13A21}|ReactorHttp\\ReactorHttp.vcxproj|solutionrelative:ReactorHttp\\Buffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadPool.h",
+              "DocumentMoniker": "C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\ThreadPool.h",
+              "RelativeDocumentMoniker": "ReactorHttp\\ThreadPool.h",
+              "ToolTip": "C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\ThreadPool.h",
+              "RelativeToolTip": "ReactorHttp\\ThreadPool.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T06:01:00.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerThread.h",
+              "DocumentMoniker": "C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\WorkerThread.h",
+              "RelativeDocumentMoniker": "ReactorHttp\\WorkerThread.h",
+              "ToolTip": "C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\WorkerThread.h",
+              "RelativeToolTip": "ReactorHttp\\WorkerThread.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T09:05:15.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerThread.c",
+              "DocumentMoniker": "C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\WorkerThread.c",
+              "RelativeDocumentMoniker": "ReactorHttp\\WorkerThread.c",
+              "ToolTip": "C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\WorkerThread.c",
+              "RelativeToolTip": "ReactorHttp\\WorkerThread.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-07T09:05:11.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Buffer.h",
+              "DocumentMoniker": "C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\Buffer.h",
+              "RelativeDocumentMoniker": "ReactorHttp\\Buffer.h",
+              "ToolTip": "C:\\Users\\Lin\\Desktop\\\u57FA\u4E8E\u591A\u53CD\u5E94\u5806\u7684\u9AD8\u5E76\u53D1\u670D\u52A1\u5668\u9879\u76EE\u8D44\u6599\\\u9879\u76EE\u4EE3\u7801\\ReactorHttp\\ReactorHttp\\Buffer.h",
+              "RelativeToolTip": "ReactorHttp\\Buffer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-05T10:37:59.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
