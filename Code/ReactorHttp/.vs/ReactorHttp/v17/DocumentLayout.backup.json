@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lin\\Desktop\\High_concurrency_server_based_on_multiple_reactors\\Code\\ReactorHttp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10B6D934-44B2-429F-9BD8-D7CEE248BEAB}|ReactorHttp\\ReactorHttp.vcxproj|C:\\Users\\Lin\\Desktop\\High_concurrency_server_based_on_multiple_reactors\\Code\\ReactorHttp\\ReactorHttp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B6D934-44B2-429F-9BD8-D7CEE248BEAB}|ReactorHttp\\ReactorHttp.vcxproj|solutionrelative:ReactorHttp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Lin\\Desktop\\High_concurrency_server_based_on_multiple_reactors\\Code\\ReactorHttp\\ReactorHttp\\main.c",
+              "RelativeDocumentMoniker": "ReactorHttp\\main.c",
+              "ToolTip": "C:\\Users\\Lin\\Desktop\\High_concurrency_server_based_on_multiple_reactors\\Code\\ReactorHttp\\ReactorHttp\\main.c",
+              "RelativeToolTip": "ReactorHttp\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-10T11:41:21.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

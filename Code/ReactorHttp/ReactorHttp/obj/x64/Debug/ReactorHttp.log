@@ -1,0 +1,11 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.159.130”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  main.c
+C:\Users\Lin\Desktop\High_concurrency_server_based_on_multiple_reactors\Code\ReactorHttp\ReactorHttp\main.c(1,10): error : cstdio: 没有那个文件或目录
+C:\Users\Lin\Desktop\High_concurrency_server_based_on_multiple_reactors\Code\ReactorHttp\ReactorHttp\main.c(1,10): error :  ﻿#include <cstdio>
+C:\Users\Lin\Desktop\High_concurrency_server_based_on_multiple_reactors\Code\ReactorHttp\ReactorHttp\main.c(1,10): error :           ^~~~~~~~
+C:\Users\Lin\Desktop\High_concurrency_server_based_on_multiple_reactors\Code\ReactorHttp\ReactorHttp\main.c(1,10): error : compilation terminated.
